@@ -1237,7 +1237,7 @@ p {
 .name_review {
   font-family: 'Montserrat', sans-serif;
   line-height: 1;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   color: #fecb2f;
 }
 .photo_review {
@@ -1918,7 +1918,7 @@ form .filed_form textarea:-moz-placeholder {
 /***********************************************************/
 .main_footer {
   background-color: #f4f4f4;
-  padding: 60px 0 55px 0;
+  padding: 60px 0 10px 0;
 }
 .main_footer .copy {
   padding-left: 55px;
@@ -1930,11 +1930,24 @@ form .filed_form textarea:-moz-placeholder {
 }
 .main_footer .footer_block_title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   color: #000;
   line-height: 1;
   padding-top: 0;
   padding-bottom: 24px;
+  text-transform: uppercase;
+}
+.main_footer .footer_block_contact {
+  margin-bottom: 30px;
+}
+.main_footer .footer_block_dev {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  font-size: 10px;
+  color: #000;
+  line-height: 1;
+  padding-top: 0;
+  padding-bottom: 5px;
   text-transform: uppercase;
 }
 .social_wg a {
