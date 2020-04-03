@@ -1917,7 +1917,7 @@ form .filed_form textarea:-moz-placeholder {
 /*************************MAIN FOOTER**********************/
 /***********************************************************/
 .main_footer {
-  background-color: #f4f4f4;
+  background-color: #282828;
   padding: 60px 0 10px 0;
 }
 .main_footer .copy {
@@ -1931,7 +1931,7 @@ form .filed_form textarea:-moz-placeholder {
 .main_footer .footer_block_title {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  color: #000;
+  color: #fecb2f;
   line-height: 1;
   padding-top: 0;
   padding-bottom: 24px;
@@ -1940,14 +1940,17 @@ form .filed_form textarea:-moz-placeholder {
 .main_footer .footer_block_contact {
   margin-bottom: 30px;
 }
+
+.main_footer .footer_block_contact a {
+  color: #eaeaea;
+}
 .main_footer .footer_block_dev {
   font-family: 'Montserrat', sans-serif;
   position: relative;
   font-size: 10px;
-  color: #000;
+  color: #eaeaea;
   line-height: 1;
   padding-top: 0;
-  padding-bottom: 5px;
   text-transform: uppercase;
 }
 .social_wg a {
