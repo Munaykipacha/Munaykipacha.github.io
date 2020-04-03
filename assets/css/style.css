@@ -295,6 +295,15 @@ p {
 .section_heading .section_heading_title {
   line-height: 0.9;
 }
+.adventures_heading_title {
+  color: #fecb2f;
+  line-height: 0.9;
+}
+.adventures_section_title {
+  color: #fecb2f;
+  font-size: 18px;
+  margin-top: 21px;
+}
 .describe_section_title {
   font-size: 18px;
   margin-top: 21px;
@@ -442,6 +451,9 @@ p {
 }
 .light_area {
   background-color: #f4f4f4;
+}
+.adventures_area {
+  background-image: url(../images/gallery/24.jpg);
 }
 /********************BG overlay********************/
 .bg_overlay1 {
@@ -1400,6 +1412,14 @@ form .filed_form textarea:-moz-placeholder {
 /************************************************************/
 /**********************HOME NEWS LIST************************/
 /***********************************************************/
+.news_list {
+  background-color: #f4f4f4;
+  background-image: url(../images/gallery/24.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
 .latest_news_carousel .item {
   min-height: 210px;
   padding: 34px;
