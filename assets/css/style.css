@@ -1896,6 +1896,7 @@ form .filed_form textarea:-moz-placeholder {
   color: #fff;
   font-size: 30px;
   line-height: 1;
+  margin-left: 5px;
 }
 .subscribe_form {
   float: right;
@@ -1942,7 +1943,7 @@ form .filed_form textarea:-moz-placeholder {
 /***********************************************************/
 .main_footer {
   background-color: #282828;
-  padding: 60px 0 10px 0;
+  padding: 20px 0 10px 0;
 }
 .main_footer .copy {
   padding-left: 55px;
@@ -1962,6 +1963,7 @@ form .filed_form textarea:-moz-placeholder {
   text-transform: uppercase;
 }
 .main_footer .footer_block_contact {
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 
