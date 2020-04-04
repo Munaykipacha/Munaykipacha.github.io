@@ -922,6 +922,26 @@ p {
   background-image: url(../images/cover_page/comunidad2.jpg);
   background-position: center bottom;
 }
+.item_mainslide_5 {
+  background-image: url(../images/cover_page/5.jpg);
+  background-position: center bottom;
+}
+.item_mainslide_6 {
+  background-image: url(../images/cover_page/6.jpg);
+  background-position: center bottom;
+}
+.item_mainslide_7 {
+  background-image: url(../images/cover_page/7.jpg);
+  background-position: center bottom;
+}
+.item_mainslide_8 {
+  background-image: url(../images/cover_page/8.jpg);
+  background-position: center bottom;
+}
+.item_mainslide_9 {
+  background-image: url(../images/cover_page/9.jpg);
+  background-position: center bottom;
+}
 /*END slide background image*/
 .main_big_slider .psev_table {
   background-repeat: no-repeat;
